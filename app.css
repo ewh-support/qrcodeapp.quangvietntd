@@ -19049,3 +19049,43 @@ img{
     max-width: 100%;
 }
 
+
+video,
+canvas {
+  width: 100% !important;
+}
+.item-input-wrap {
+  padding-bottom: 10px;
+}
+
+
+
+video,
+canvas {
+  width: 100% !important;
+}
+.item-input-wrap {
+  padding-bottom: 10px;
+}
+
+
+.page[data-v-f7c66970] {
+  background: #009688 ;
+}
+.page li[data-v-f7c66970] {
+  background: #009688 ;
+}
+
+
+
+
+.align-items-center {
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  align-items: center !important;
+  height: 100%;
+}
+img {
+  max-width: 100%;
+}
+
