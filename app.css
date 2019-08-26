@@ -19069,6 +19069,20 @@ canvas {
 }
 
 
+.fullscreen[data-v-b3b5c414] {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: black;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+
 .page[data-v-f7c66970] {
   background: #009688 ;
 }
